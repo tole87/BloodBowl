@@ -26,4 +26,6 @@ public abstract class Equipo {
     public int getPresupuesto() {
         return presupuesto;
     }
+
+
 }
